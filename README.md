@@ -10,7 +10,6 @@
 - Main needs `title, imgUrl, description` for each component do whatever for each component
 - HornedBeast component needs to have `<h2>` title and `<img>` needs all attributes including `title`
 
+### Links
 
-###
-
-PNG Head Image used https://www.pngaaa.com/detail/903089
+PNG Head Image used [Image](https://www.pngaaa.com/detail/903089)
