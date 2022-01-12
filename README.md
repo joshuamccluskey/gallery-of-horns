@@ -52,7 +52,7 @@ Actual time needed to complete: 15 minutes
 
 ### Bootstrap
 
-- Incorporate bootsrap to make a visually appealing site responsive to different screen sizes
+- Incorporate bootstrap to make a visually appealing site responsive to different screen sizes
 
 #### Number and name of feature: Feature 3: Bootstrap
 
@@ -60,6 +60,6 @@ Estimate of time needed to complete: 25 minutes
 
 Start time: 4:30 pm PST
 
-Finish time: _____
+Finish time: 5:00 pm PST
 
-Actual time needed to complete: _____
+Actual time needed to complete: 30 minutes
