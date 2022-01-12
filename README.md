@@ -60,6 +60,6 @@ Estimate of time needed to complete: 25 minutes
 
 Start time: 4:30 pm PST
 
-Finish time: 5:00 pm PST
+Finish time:  pm PST
 
 Actual time needed to complete: 30 minutes

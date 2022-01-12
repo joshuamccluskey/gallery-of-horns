@@ -1,6 +1,30 @@
+
 main {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
   
 }
+
+.card {
+  width: 30%;
+  margin-top: 2vw;
+  margin-bottom: 2vw;
+  padding: .5vw;
+  text-align: center;
+  border: 3px solid #80C7F2;
+  
+}
+
+.card div {
+  font-size:  em;
+}
+
+.card p{
+
+  color:#3C5159 ;
+  font-size: 1em;
+ 
+}
+
+

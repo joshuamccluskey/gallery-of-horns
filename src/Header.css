@@ -1,4 +1,12 @@
 header{
   text-align: center;
+  
+  
+}
+
+h1 {
   font-size: 5em;
+  color: #3C5159;
+  font-family: 'Bungee Shade', cursive;
+  background-color: #A7D5F2;
 }
