@@ -1,5 +1,6 @@
 import React from "react";
 import Card from 'react-bootstrap/Card';
+import Button from 'react-bootstrap/Button';
 
 import "./HornedBeast.css";
 
@@ -21,21 +22,26 @@ class HornedBeast extends React.Component {
   }
 
 
+
+
   render() {
+    
     return (
-      <Card style={{width: '30%'}}>
+      <Card style={{ width: '30%' }}>
         <Card.Body>
-        <Card.Title>{this.props.name}</Card.Title>
-        <Card.Text>❤️ : {this.state.faves}</Card.Text>
-        <Card.Img onClick={this.handleFaves}
-          src={this.props.imageUrl}
-          alt={this.props.name}
-          title={this.props.name}/>
-        <Card.Text>{this.props.words}</Card.Text>
-        </Card.Body> 
+          <Card.Title>{this.props.name}</Card.Title>
+          <Card.Text>❤️ : {this.state.faves}</Card.Text>
+          <Card.Img 
+            onClick={this.handleFaves}
+            src={this.props.imageUrl}
+            alt={this.props.name}
+            title={this.props.name} />
+          <Card.Text>{this.props.words}</Card.Text>
+          <Button variant ="primary">Go Horns!</Button>
+        </Card.Body>
 
       </Card>
-      
+
     )
   }
 }
