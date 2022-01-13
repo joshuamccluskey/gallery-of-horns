@@ -105,7 +105,7 @@ Actual time needed to complete: TBD
 
 ### Contributor Josh McCluskey
 
-### Submission PR [Click Here for Lab 03 PR](#)
+### Submission PR [Click Here for Lab 03 PR](https://github.com/joshuamccluskey/gallery-of-horns/pull/4)
 
 ### Reflection & Comments
 
