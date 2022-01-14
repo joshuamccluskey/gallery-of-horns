@@ -127,14 +127,14 @@ Estimate of time needed to complete: 3 hours
 
 Start time: 9:30 pm PST
 
-Finish time: 11:00 pm PST
+Finish time: 11:30 pm PST
 
-Actual time needed to complete: 3 Hors
+Actual time needed to complete: 2 Hours
 
-### Contributor Josh C McCluskey
+### Contributor joshuamccluskey
 
-### Submission PR [Click Here for Lab 04 PR](###)
+### Submission PR [Click Here for Lab 04 PR](https://github.com/joshuamccluskey/gallery-of-horns/tree/lab04)
 
 ### Reflection + Comments
 
-TBD
+The lab has been compeleted and it was challenging keeping track of states.
