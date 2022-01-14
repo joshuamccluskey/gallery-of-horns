@@ -110,3 +110,31 @@ Actual time needed to complete: 5 hours 2 hours in class 04
 ### Reflection & Comments
 
 This lab was the most difficult lab this week. I was having trouble with updating a state in App.js from Main.js. I spent 3 hours so far on this lab and will come back to finish the features. I should get it in another hour or so.
+
+## Lab04
+
+### Overview 04
+
+- Integrate a form that filters gallery by the number of horns for each beast.
+
+### Form
+
+- Incorporate a dropdown for to filter horns per beast in gallery.
+
+#### Feature 1. Filter by Numbers of Horns
+
+Estimate of time needed to complete: 3 hours
+
+Start time: 9:30 pm PST
+
+Finish time: 11:00 pm PST
+
+Actual time needed to complete: 3 Hors
+
+### Contributor Josh C McCluskey
+
+### Submission PR [Click Here for Lab 04 PR](###)
+
+### Reflection + Comments
+
+TBD

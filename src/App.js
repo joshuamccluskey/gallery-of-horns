@@ -3,6 +3,7 @@ import Header from './Header.js';
 import Main from './Main.js';
 import Footer from './Footer.js';
 import SelectedBeast from './SelectedBeast.js';
+
 import data from './data.json';
 
 
@@ -37,6 +38,7 @@ class App extends React.Component {
     console.log(this.state.currentBeast)
     return (
       <>
+
         <Header horns={this.state.horns} />
         <SelectedBeast
           handleShow={this.handleShow}
@@ -45,6 +47,7 @@ class App extends React.Component {
           show={this.state.show}
         />
         <Main data={data} handleShow={this.handleShow} />
+     
         <Footer />
       </>
     )
