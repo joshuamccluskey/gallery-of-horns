@@ -14,6 +14,14 @@
 
 PNG Head Image used [Image](https://www.pngaaa.com/detail/903089)
 
+### Submission PR [Click Here for Lab 01 PR](https://github.com/joshuamccluskey/gallery-of-horns/pull/1)
+
+### Contributor: Joshua McCluskey
+
+### Reflections and Comments
+
+I was time boxing today, and I thought this lab would take me longer when I started. As worked through the lab, I started to feel the repetition and pattern, which helped me through the lab. Time boxing is helped a lot!
+
 ## Lab02
 
 ### Overview 02
@@ -60,6 +68,45 @@ Estimate of time needed to complete: 25 minutes
 
 Start time: 4:30 pm PST
 
-Finish time:  pm PST
+Finish time: 5:30 pm PST
 
-Actual time needed to complete: 30 minutes
+Actual time needed to complete: 1 Hour
+
+### Contributor Joshua McCluskey
+
+### Submission PR [Click Here for Lab 02 PR](https://github.com/joshuamccluskey/gallery-of-horns/pull/3)
+
+### Reflections & Comments
+
+It was surprising to see the actual amount of  time spent on the features against initial estimates. I've been using the Pomodoro method for time boxing  25 minute rounds to increase efficiency, and I see the time I spent with each feature falls  closely to each cycle. Can't wait to learn more about Bootstrap!
+
+## Lab03
+
+### Overview 03
+
+- Integrate Bootstrap Modal
+- Send fucntion into `Main` component to update state in `App`
+- Create a `SelectedBeast` component and include it in your `App`
+- Use the state in the `App` to render an individual beast in a Modal in the `SelectedBeast` component using React Boothstrap
+
+### Display a  Modal
+
+- Incorporate bootstrap modal
+
+#### Number and name of feature: Feature 1: Display a Modal
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 3:30 pm PST
+
+Finish time: 6:00 pm PST
+
+Actual time needed to complete: 5 hours 2 hours in class 04
+
+### Contributor Josh McCluskey
+
+### Submission PR [Click Here for Lab 03 PR](https://github.com/joshuamccluskey/gallery-of-horns/pull/4)
+
+### Reflection & Comments
+
+This lab was the most difficult lab this week. I was having trouble with updating a state in App.js from Main.js. I spent 3 hours so far on this lab and will come back to finish the features. I should get it in another hour or so.
