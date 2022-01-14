@@ -97,11 +97,11 @@ It was surprising to see the actual amount of  time spent on the features agains
 
 Estimate of time needed to complete: 1 hour
 
-Start time: T pm PST
+Start time: 3:30 pm PST
 
-Finish time: TBD pm PST
+Finish time: 6:00 pm PST
 
-Actual time needed to complete: TBD
+Actual time needed to complete: 5 hours 2 hours in class 04
 
 ### Contributor Josh McCluskey
 
@@ -109,4 +109,4 @@ Actual time needed to complete: TBD
 
 ### Reflection & Comments
 
-TBD
+This lab was the most difficult lab this week. I was having trouble with updating a state in App.js from Main.js. I spent 3 hours so far on this lab and will come back to finish the features. I should get it in another hour or so.

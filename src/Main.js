@@ -15,17 +15,14 @@ class Main extends React.Component {
     let beastMap = this.props.data.map((beast, index) => (
       <HornedBeast
         key={"Beast: " + index}
-        addHorns={this.props.addHorns}
+        beast={beast}
         name={beast.title}
-        imageUrl={beast.image_url}
-        words={beast.description}
+        description={beast.description}
+        imgUrl={beast.image_url}
+        handleShow={this.props.handleShow}
       />
 
-
-
     ));
-
-
 
     return (
       <main>

@@ -15,29 +15,27 @@ class HornedBeast extends React.Component {
     }
   }
 
-  handleFaves = () => {
+  handleCard = () => {
     this.setState({
       faves: this.state.faves + 1
     })
+    this.props.handleShow(this.props.beast);
   }
 
 
-
-
   render() {
-    
+
     return (
       <Card style={{ width: '30%' }}>
         <Card.Body>
           <Card.Title>{this.props.name}</Card.Title>
           <Card.Text>❤️ : {this.state.faves}</Card.Text>
-          <Card.Img 
-            onClick={this.handleFaves}
-            src={this.props.imageUrl}
+          <Card.Img
+            onClick={this.handleCard}
+            src={this.props.imgUrl}
             alt={this.props.name}
             title={this.props.name} />
-          <Card.Text>{this.props.words}</Card.Text>
-          <Button variant ="primary">Go Horns!</Button>
+          <Card.Text>{this.props.description}</Card.Text>
         </Card.Body>
 
       </Card>
